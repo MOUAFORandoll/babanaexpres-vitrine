@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.min.class';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react'
 
 const App = () => {
