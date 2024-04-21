@@ -1,5 +1,3 @@
-import Logo from "../assets/"
-
 const products = [
     {
       id: 1,
