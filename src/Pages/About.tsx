@@ -7,6 +7,7 @@ const About = () => {
         <>
             <Navbar />
                 <Team />
+                <h1>Hello world</h1>
             <Footer />
         </>
     );
