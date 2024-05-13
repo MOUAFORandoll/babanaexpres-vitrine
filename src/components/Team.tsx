@@ -3,13 +3,7 @@ const people = [
     name: "Abel MK",
     role: "Designer",
     imageUrl:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
-  },
-  {
-    name: "Douanla Hermann",
-    role: "Designer",
-    imageUrl:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "https://i.pinimg.com/736x/15/ef/f3/15eff35dec7174a3b184cbdc8ab2cd99.jpg",
   },
 ];
 
