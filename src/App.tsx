@@ -1,5 +1,6 @@
 import Gooo from "./Gooo";
 import Navbar from "./Navbar";
+import Newslatter from "./Newsletter";
 
 /* eslint-disable jsx-a11y/anchor-is-valid */
 export default function App() {
@@ -98,6 +99,7 @@ export default function App() {
       </div>
     </div>
     <Gooo />
+    <Newslatter />
     </div>
   )
 }
